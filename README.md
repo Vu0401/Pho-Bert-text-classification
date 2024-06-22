@@ -1,14 +1,14 @@
-# PhoBert-Text-Classifier
+# VinAI-PhoBert-Text-Classifier
 
 This project utilizes the pre-trained model [wonrax/phobert-base-vietnamese-sentiment](https://huggingface.co/wonrax/phobert-base-vietnamese-sentiment) to solve multi-label classification problems in Vietnamese text data.
 
 ## Pineline
-![PhoBert-Text-Classifier](https://github.com/Vu0401/Pho-Bert-text-classification/assets/93986576/4372945c-7b2d-4467-a374-57e78185e3c0)
+![VinAI-PhoBert-Text-Classifier](https://github.com/Vu0401/Pho-Bert-text-classification/assets/93986576/4372945c-7b2d-4467-a374-57e78185e3c0)
 
 
 ## Introduction
 
-PhoBert-Text-Classifier is a project designed to classify Vietnamese text into multiple categories using the Pho-BERT model. This model has been fine-tuned for classification tasks, making it highly effective for understanding and categorizing Vietnamese text data in various domains.
+VinAI-PhoBert-Text-Classifier is a project designed to classify Vietnamese text into multiple categories using the Pho-BERT model. This model has been fine-tuned for classification tasks, making it highly effective for understanding and categorizing Vietnamese text data in various domains.
 
 ## Features
 
