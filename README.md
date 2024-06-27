@@ -3,8 +3,7 @@
 This project utilizes the pre-trained model [wonrax/phobert-base-vietnamese-sentiment](https://huggingface.co/wonrax/phobert-base-vietnamese-sentiment) to solve multi-label classification problems in Vietnamese text data.
 
 ## Pineline
-[image](https://github.com/Vu0401/VinAI-PhoBert-Text-Classifier/assets/93986576/6f4bd6ac-d362-4113-84b2-3ac2bb7e3b85).
-
+![image](https://github.com/Vu0401/VinAI-PhoBert-Text-Classifier/assets/93986576/306b09c0-0f39-465a-9881-4918db6d6475)
 
 
 ## Introduction
