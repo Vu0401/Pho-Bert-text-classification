@@ -12,10 +12,7 @@ VinAI-PhoBert-Text-Classifier is a project designed to classify Vietnamese text 
 - **Data Cleaning:** Pandas, NLTK, Underthesea
 - **Data Preparation:** DataFrame manipulations, data splitting
 - **Model Training and Evaluation:** Scikit-learn, Transformers
- 
-## Features
-- **Pre-trained Model:** Leverages the  for robust performance.
-- **Multi-label Classification:** Supports classifying text into multiple categories simultaneously.
+
 
 ## Installation
 
